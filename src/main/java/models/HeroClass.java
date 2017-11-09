@@ -1,4 +1,4 @@
-package io.di.models;
+package main.java.models;
 
 public class HeroClass {
     String "classname";
