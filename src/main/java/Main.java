@@ -2,6 +2,7 @@ package main.java;
 
 import main.java.models.hero.HeroType;
 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -21,9 +22,9 @@ public class Main {
         System.out.println("Your class is: " + heroType + "!");
 
 
-        Hero hero = new Hero(heroName, heroType);
-        System.out.println("Welcome to Pudginaria, hero!");
-        System.out.println("Your hero is: " + hero);
+       // Hero hero = new Hero(heroName, heroType);
+     //   System.out.println("Welcome to Pudginaria, hero!");
+       // System.out.println("Your hero is: " + hero);
 
 
 
